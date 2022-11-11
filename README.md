@@ -6,15 +6,19 @@ The purpose of this function is to automate downloading data products from the G
 
 
 
-|                 Metric                  |      Abbreviation    |
-| :-------------------------------------: |  :-----------------: |
-| model-G                                 |          bi          |
-| model-G                                 |          erc         |
-| Reference alfalfa evaportranspiration   |          etr         |
-| 100-hour dead fuel moisture             |         fm100        |
-| 100-hour dead fuel moisture             |         fm1000       |
-| Reference grass evaportranspiration     |          pet         |
-| Precipitation                           |          pr          |
-| Minimum Near-Surface Relative Humidity  |         rmin         |
-| Maximum Near-Surface Relative Humidity  |         rmax         |
-| Mean Vapor Pressure Deficit             |          vpd         |
+|                 Metric                        |      Abbreviation    |
+| :-------------------------------------:       |  :-----------------: |
+| Burning Index (NFDRS fire danger)             |          bi          |
+| Energy release component (NFDRS fire danger)  |          erc         |
+| Reference alfalfa evaportranspiration (mm)    |          etr         |
+| 100-hour dead fuel moisture (%)               |         fm100        |
+| 100-hour dead fuel moisture (%)               |         fm1000       |
+| Reference grass evaportranspiration           |          pet         |
+| Precipitation              (mm, day)          |          pr          |
+| Minimum Near-Surface Relative Humidity (%)    |         rmin         |
+| Maximum Near-Surface Relative Humidity (%)    |         rmax         |
+| Mean Vapor Pressure Deficit (kPa)             |          vpd         |
+| wind speed  (meters/second)                   |          vs          |
+| minimum temperature  (K)                      |         tmmn 	       |	
+| Minimum temperature (K)                       |         tmmx         |
+ 	
